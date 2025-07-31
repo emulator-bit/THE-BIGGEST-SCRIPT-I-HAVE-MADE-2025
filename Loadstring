@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jxnscript/arsenalhub/main/final.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/emulator-bit/THE-BIGGEST-SCRIPT-I-HAVE-MADE-2025/main/final.lua"))()
+
